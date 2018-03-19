@@ -7,3 +7,5 @@ ZCZC W02 Sistem Operasi 2018 done
 ZCZC W03 Sistem Operasi 2018 done
 
 ZCZC W04 done
+
+ZCZC W05 done
